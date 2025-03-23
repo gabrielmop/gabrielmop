@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel, or @gabrielmop if you prefer
 - 👀 I’m interested in software development in general
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java
 - 📫 You can reach me on email <gabriel_moop@hotmail.com> or instagram: gabriel_mop
 
 <!---
